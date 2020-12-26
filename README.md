@@ -2,7 +2,7 @@
 This is a project for parent process spoofing.
 
 ## How to use
-step 1:Select a parent pid
+step 1:Select a parent process and remember the pid
 
 ![check](image/check.png)
 
